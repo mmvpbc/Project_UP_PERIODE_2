@@ -1,2 +1,2 @@
-<?php
-echo "this is echo";
+
+<?php include ('index.php'); ?>
